@@ -3,6 +3,19 @@
     <channel>
         <title>Qwanto</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 16 Jul 2026 11:33:28 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto-1.1.1.zip" length="5063245" type="application/octet-stream" sparkle:edSignature="EppV81r5fd6X06OutKYhCvQuHy0rpDWuaoLISWPiKPmc0j5MV0wtJWYd9GpZhvKwR9NM+J2oRCFgXKK/pnlFCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto4-3.delta" sparkle:deltaFrom="3" length="1150718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hoq8w4x/KeSOSiqYxPUj9zTHn9ZYjVhVknMtoIyt5FgeHC3hD30xj/6cCtYrs+VSLUSu9RqJLonqbaPsmBAlCA=="/>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto4-2.delta" sparkle:deltaFrom="2" length="2134066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9GWAipukyNJ+uYnyfHMnanfySFfCtak/XNpyEYDmWztHCTpNwpkhxVdU7Cn7WChIuRaTtYLevyEnCeb2Lb5SDg=="/>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto4-1.delta" sparkle:deltaFrom="1" length="2135030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CEtrtex5Qmu0sWbbEu4KjPRaq0GA9mnDFQVqGW7Otb7eRG/k4PLXyiNIyULeoFJ6HQ0e2+4b7kEeoaA/REpIDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Thu, 16 Jul 2026 08:54:21 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto2-1.delta" sparkle:deltaFrom="1" length="13066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AmHjtR4QPaTiaFjOqIR4FQohIVmb4Vr7y7eD3LOqzsGMmuVat1xPoyMOv6C68KrLsWYsnKHfm4wIY/ZFnAGNCw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 14 Jul 2026 20:11:47 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto-1.0.0.zip" length="4015685" type="application/octet-stream" sparkle:edSignature="rz5F1ZbFV6kgJd8SW6S1MjpdkpL04SjxAdW3sI+HUDu1V3ZpZ0oMIZT1IkHpq99apPokkLqG5r0gSDjY3PtpBA=="/>
         </item>
     </channel>
 </rss>
