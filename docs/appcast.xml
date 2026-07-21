@@ -3,6 +3,20 @@
     <channel>
         <title>Qwanto</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 21 Jul 2026 17:05:20 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto-1.2.0.zip" length="5395682" type="application/octet-stream" sparkle:edSignature="TZKVmaIMioWLcvlEqaRtMlezRc2nRQYI9RD2XVowMVLxzAI4hYWPe4PUVr5fbsP+U606kCgu+5EM0cIb18EiAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto5-4.delta" sparkle:deltaFrom="4" length="713202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g5pdQLeby6j5dJAhIzeLv56yTGUNttLzW2aexg/gQmI8utPo7n1uI+RdUb/aHBuv4zYxGkD7BHFVKoivp69VCw=="/>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto5-3.delta" sparkle:deltaFrom="3" length="1628490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HIH7tnVzmY4uKWN35/gPjX3IzLLbVJijOr+cjB15/WfrAAkKEFET1glMq3yKnt/5SI/ZUC7mDoeiRS+Z6K75Dw=="/>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto5-2.delta" sparkle:deltaFrom="2" length="2471770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZvtI/OSRopNR7L0H28oVXEsm/Hq7gyIVjFdldLA74/64cDsTRF70FG0pVwWXwiSwzxRfyfVUB2tZo509b8dRDg=="/>
+                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto5-1.delta" sparkle:deltaFrom="1" length="2473342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WiBaaCEtTl+zQXtlA3xCDcMKTdcc5jOAMibIYCdsyFrtEd9XXkVS4QdkOdL9kNLDlcqW3b1zcJixwlFnAUUiCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 16 Jul 2026 11:33:28 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto3-2.delta" sparkle:deltaFrom="2" length="2095654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ixgBpUJUaQ0jjbAVScCliJdE07RZqaBkHMP5ejSkXiuVi5yVcivy9MSyV62c+o0+OkVA9EICOYbmuxbvMcPwDQ=="/>
                 <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto3-1.delta" sparkle:deltaFrom="1" length="2095478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a/wzHoKBhfdfykA5ptb+cf5Ua3BEB29ID1M30u14OUlKAnEvyJ1VT398k0KZaWqtOmufYdiOROuEbZ4JnHH7CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 14 Jul 2026 20:17:32 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto-1.0.1.zip" length="4015663" type="application/octet-stream" sparkle:edSignature="lbv6J6jivy9u/uo6wl4bxwzmpbbGKKOwZuwgwONv/9O4FVAW4ET47pVronIKH75Ter1439m8rwqYbmXinubDCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://qwantos.github.io/qwanto-releases/Qwanto2-1.delta" sparkle:deltaFrom="1" length="13066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AmHjtR4QPaTiaFjOqIR4FQohIVmb4Vr7y7eD3LOqzsGMmuVat1xPoyMOv6C68KrLsWYsnKHfm4wIY/ZFnAGNCw=="/>
             </sparkle:deltas>
         </item>
     </channel>
